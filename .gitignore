@@ -1,0 +1,11 @@
+.env.local
+node_modules
+dist
+src/convex/_generated
+
+# Platform artifacts (Vly/Freebuff) — not part of the app
+isolate/
+main.ts
+vly-toolbar-readonly.tsx
+.build-check.log
+
